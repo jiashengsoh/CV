@@ -1,0 +1,11 @@
+
+<label> Text </label>
+<input type="text">
+<label> File </label>
+<input type="file">
+<label> Date </label>
+<input type="date">
+<label> Radio </label>
+<input type="radio">
+<label> Range </label>
+<input type="range">
